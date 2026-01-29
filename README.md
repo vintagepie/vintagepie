@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with experienced ppl in coding who could help me to develop my technical skills
 - 📫 you can reach me on insta @jagathi_chowdary__
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: tbh idk what am intrested in, but as am doing btech , i am here, but then i realized this whole cse thing is not boring... 
+- ⚡ Fun fact: tbh idk what am intrested in, but as am doing btech , i am here, but then i realized this whole cse thing is not so boring... 
 
 <!---
 vintagepie/vintagepie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
