@@ -7,6 +7,6 @@
 - ⚡ Fun fact: tbh idk what am intrested in, but as am doing btech , i am here, but then i realized this whole cse thing is not so boring... 
 
 <!---
-vintagepie/vintagepie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jagathi/vintagepie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
